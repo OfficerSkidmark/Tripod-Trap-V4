@@ -18,4 +18,4 @@ Hello Ghostbusters,
   
   How To Build Series
 
-These files are being released under the 
+These files are being released under the Creativecommons-NonCommercial-ShareAlike license, my ask is to not produce and sell items from this material as your own. 
