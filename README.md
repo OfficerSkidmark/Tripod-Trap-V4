@@ -18,4 +18,6 @@ Hello Ghostbusters,
   
   How To Build Series
 
-These files are being released under the Creativecommons-NonCommercial-ShareAlike license, my ask is for others to not produce and sell items from this material as there own. 
+These files are being released under the Creativecommons-NonCommercial-ShareAlike license, my ask is for others to not produce and sell items from this material as there own.
+Special Thanks to:
+Adam Marish (Providing pictures and measurments from the original props)
