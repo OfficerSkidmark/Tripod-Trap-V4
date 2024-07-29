@@ -23,3 +23,4 @@ These files are being released under the Creativecommons-NonCommercial-ShareAlik
 Special Thanks to:
 
 Adam Marish (Providing pictures and measurments from the original props)
+Chris Rossi (sharing his printable Decal sheet.)
